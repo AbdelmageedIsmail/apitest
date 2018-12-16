@@ -14,12 +14,12 @@
   "profile": {
     "name": "typicode"
   },
-  {
+ 
 "responseCode":
-{
-"code":"100",
-"message":"succss"
-}
-}
+    {
+    "code":"100",
+    "message":"succss"
+    }
+
 
 }
